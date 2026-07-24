@@ -1,7 +1,6 @@
 
 # Hi there 👋, I'm Anuhi Mustapha
 
-**Data Analyst | Power BI • SQL • Excel | Bridging Analytics with Data Science & Machine Learning | Analytics Educator | CAPM® Certified Project Manager**
 
 I'm passionate about transforming raw data into actionable business insights through analytics, automation, and visualization. I enjoy building end-to-end data solutions—from data cleaning and SQL querying to interactive Power BI dashboards and predictive machine learning models.
 
